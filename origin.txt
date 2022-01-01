@@ -1,0 +1,12 @@
+Uri: https://arizona-rp.com/
+File Name: c:\Downloaded Web Sites\arizona-rp.com\index.htm
+Content Type: text/html
+
+Uri: https://arizona-rp.com/vddosw3data.js
+File Name: c:\Downloaded Web Sites\arizona-rp.com\vddosw3data.js
+Content Type: application/javascript
+
+Uri: https://arizona-rp.com/aes.min.js
+File Name: c:\Downloaded Web Sites\arizona-rp.com\aes.min.js
+Content Type: application/javascript
+
